@@ -167,8 +167,6 @@ pixprobe/
 - Python 3.10+
 - [Ollama](https://ollama.com) installed and running
 - SerpAPI free account
-__pycache__/
-```
 
 ## License
 
