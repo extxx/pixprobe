@@ -168,17 +168,6 @@ pixprobe/
 - [Ollama](https://ollama.com) installed and running
 - SerpAPI free account
 
-## .gitignore
-
-Make sure your `.gitignore` includes:
-
-```
-.env
-.venv/
-samples/
-__pycache__/
-```
-
 ## License
 
 MIT
